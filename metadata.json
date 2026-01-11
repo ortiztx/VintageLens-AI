@@ -1,0 +1,7 @@
+{
+  "name": "VintageLens AI Restoration",
+  "description": "A high-end digital photo restoration studio powered by Gemini AI, specialized in revitalizing old memories while preserving authentic identity and facial features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
